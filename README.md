@@ -1,4 +1,4 @@
-<h1 align="center">🏳️‍🌈Hello, my name is Gustavo<h1/> 
+<h1 align="center">♐Hello, my name is Gustavo<h1/> 
 <img src="https://tm.ibxk.com.br/2022/08/11/11115546378139.jpg?ims=1120x420" /> 
   
 ## About Me
