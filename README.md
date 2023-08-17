@@ -22,7 +22,7 @@
 ### Contacts:
 <a href="https://www.linkedin.com/in/gustavo-henrique-335b67236/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px"/></a>
 <a href="https://www.instagram.com/guh_henri_/"> <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40px" height="40px"/></a>                        
-
+<a href="gustavo1995henrique.gh@gmail.com"><img src="https://www.flaticon.com/free-icon/gmail_732200" width="40px" height="40px"/></a>
  
 
 
