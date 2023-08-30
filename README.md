@@ -1,5 +1,5 @@
 # Oie! :wave:
-Meu nome é Gustavo, sou desenvolvedor fullstack, adoro jogos, cadelinha de skyrim e amo doces.
+Meu nome é Gustavo, sou desenvolvedor fullstack, adoro jogos, viciado em skyrim e amo doces.
 
 
 ### Languages I use: 
